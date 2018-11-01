@@ -1,3 +1,4 @@
 1122996
 
-*[Pizza Margherita](margherita.md)
+* [Pizza Margherita](margherita.md)
+* [Pizza Capricciosa](capricciosa.md)
