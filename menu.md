@@ -7,5 +7,5 @@
 
 # Primi
 * [Bucatini alla matriciana](primi/bucatini_matriciana.md)
-
+* [Spaghetti alla carbonara](primi/spaghetti_carbonara.md)
 pizzeria Bella Napoli
